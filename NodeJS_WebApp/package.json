@@ -1,0 +1,18 @@
+{
+  "name": "node-js_web-app",
+  "version": "0.0.0",
+  "description": "NodeJS_WebApp",
+  "main": "index.js",
+  "author": {
+    "name": "Sunny",
+    "email": ""
+  },
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "client-sessions": "^0.7.0",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.4.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.5.1"
+  }
+}
